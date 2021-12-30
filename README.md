@@ -1,1 +1,1 @@
-# SatyasreeChatterjee_DSALabSolution
+# SatyasreeChatterjee_RestAPIAssignmentSolution
